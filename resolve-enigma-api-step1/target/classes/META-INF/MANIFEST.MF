@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Valentina1
+Build-Jdk: 19.0.1
+Implementation-Title: resolve-enigma-api-1
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: co.com.agudelo.service.resolveEnigmaApi
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/resolve-enigma
+ -api-1/
+Created-By: Maven Integration for Eclipse
+
