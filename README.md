@@ -8,4 +8,10 @@ Ejemplo:
 Ejemplo:
 ![Screenshot](/imagenes/prueba_1.png)
 
+## Clonar el repositorio
+
+```
+https://github.com/VaAgudelo17/camel-api-orquestador.git
+```
+
 ## Valentina - 🐈
