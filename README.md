@@ -11,7 +11,7 @@ Ejemplo:
 ## Clonar el repositorio
 
 ```
-https://github.com/VaAgudelo17/camel-api-orquestador.git
+git clone https://github.com/VaAgudelo17/camel-api-orquestador.git
 ```
 
 ## Valentina - 🐈
